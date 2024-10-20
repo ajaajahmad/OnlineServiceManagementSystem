@@ -119,8 +119,5 @@ The specific objectives of the project include:
 The following references were used to develop the project "Online Service Management System":
 
 - Google
-- Wikipedia
 - TutorialsPoint
 - Stack Overflow
-- Microsoft Docs
-- Amazon Kindle eBooks
