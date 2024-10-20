@@ -83,7 +83,7 @@ The specific objectives of the project include:
 
 4. **Configure the Application**
 
-  Open the `config.php` file in the project directory.
+  Open the `dbConnection.php` file in the project directory.
 
   Update the database connection settings:
 
@@ -106,7 +106,7 @@ The specific objectives of the project include:
   Open your web browser and navigate to:
 
   ```
-  http://localhost/online-service-management-system
+  http://localhost/OSMS
   ```
 
 7. **Explore and Learn**
